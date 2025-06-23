@@ -5,6 +5,5 @@
         <p>Tel: +221 76 294 60 49</p>
         <p>Email: contact@digitamax.com</p>
         <p>Email: momogueye7@gmail.com</p>
-		<p>Adresse: Dakar, Sénégal</p>
     </div>
 </template>
